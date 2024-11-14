@@ -18,7 +18,7 @@
 - Builtin server list
 
 ## Contributors
-- Dummiesman (most of the UI code, huge contributions to the core code)
+ME!!!!!!!!!!!!!
 
 ## Installation
 - Drop KISSMultiplayer.zip into the /Documents/BeamNG.drive/mods folder. The archive name HAS to be named KISSMultiplayer.zip in order 
